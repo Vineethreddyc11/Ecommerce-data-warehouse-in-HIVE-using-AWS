@@ -1,5 +1,6 @@
 # Ecommerce-data-warehouse-in-HIVE-using-AWS
-Designed data warehouse for e-commerce application to perform Hive analytics on Sales and Customer Demographics. 
+Designed data warehouse for e-commerce application to perform Hive analytics on Sales and Customer Demographics. This big data project will look at Hive's capabilities to run analytical queries on massive
+datasets. Used Adventure works dataset in a MySQL dataset for this project.
 
 <img width="1101" alt="Screen Shot 2022-10-26 at 6 22 58 PM" src="https://user-images.githubusercontent.com/68578215/198169251-1faf85b6-11b1-40e7-a2cd-9be00b409421.png">
 
@@ -74,7 +75,6 @@ from data and store it as parquet files.
 - Understanding various services provided by AWS
 - Creating an AWS EC2 instance
 - Connecting to an AWS EC2 instance via SSH
-- Introduction to Docker
 - Visualizing the complete Architecture of the system
 - Usage of docker-composer and starting all tools
 - Copying a file from a local machine to an EC2 machine
@@ -86,3 +86,5 @@ from data and store it as parquet files.
 - Understanding the use of GROUP BY, GROUPING SETS, ROLL-UP, CUBE
 clauses
 - Understanding different analytic functions in Hive
+
+
