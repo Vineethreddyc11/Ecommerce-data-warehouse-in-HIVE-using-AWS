@@ -1,6 +1,8 @@
 # Ecommerce-data-warehouse-in-HIVE-using-AWS
 Designed data warehouse for e-commerce application to perform Hive analytics on Sales and Customer Demographics. 
 
+<img width="1101" alt="Screen Shot 2022-10-26 at 6 22 58 PM" src="https://user-images.githubusercontent.com/68578215/198169251-1faf85b6-11b1-40e7-a2cd-9be00b409421.png">
+
 ## Aim
 To perform Hive analytics on Sales and Customer Demographics data using big data
 tools such as Sqoop, Spark, and HDFS.
